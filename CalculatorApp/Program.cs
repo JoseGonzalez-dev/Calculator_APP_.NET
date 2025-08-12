@@ -1,4 +1,4 @@
-﻿//
+﻿// Se recrea una calculadora básica en consola.
 Console.WriteLine("Ingrese el primer número:");
 int number1 = int.Parse(Console.ReadLine() ?? "0");
 
